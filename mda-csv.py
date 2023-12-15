@@ -9,7 +9,7 @@ IP_RANGES_BASE_URL = 'https://rfelab.eu2.portal.cloudappsecurity.com/api/v1/subn
 IP_RANGES_UPDATE_SUFFIX = 'update_rule/'
 IP_RANGES_CREATE_SUFFIX = 'create_rule/'
 CSV_ABSOLUTE_PATH = 'rules.csv'
-YOUR_TOKEN = 'XUlKQ05NAUpaHQFfQF1bTkMBTENAWktOX19cSkxaXUZbVgFMQEJTTUkaTBYcTBcaSUoZHBpLTEtOSR0eHhdOTRgXSRkZGBxOFx0bFk0dHR9JFkpMFxkWGkkfTExLTB5KGU5LHR9MTQ=='
+YOUR_TOKEN = 'XUlKQ05NAUpaHQFfQF1bTkMBTENAWktOX19cSkxaXUZbVgFMQEJTTUkaTBYcTBcaSUoZHBpLTEtOSR0eHhdOTRgXSRkZGBxOFx0bFk0dHR9JFkpMFxkWGkkfTExLTB5KGU5LHR9MTQ=='  # and no.. the token is not valid anymore.
 HEADERS = {
     'Authorization': 'Token {}'.format(YOUR_TOKEN),
     'Content-Type': 'application/json'

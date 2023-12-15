@@ -1,0 +1,6 @@
+name, ip_address_ranges, category, tag(id), isp_name
+Alex,11.1.1.4/32,4,,WhateverISP
+You,12.1.1.5/32,4,,RandomISP
+Owe,13.1.1.7/32,4,,AnotherISP
+Me,16.1.1.7/32,4,,SameISP
+10Bucks,15.1.1.8/32,4,,RandomISP
